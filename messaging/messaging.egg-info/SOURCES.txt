@@ -1,0 +1,11 @@
+README.rst
+setup.py
+messaging/__init__.py
+messaging/views.py
+messaging.egg-info/PKG-INFO
+messaging.egg-info/SOURCES.txt
+messaging.egg-info/dependency_links.txt
+messaging.egg-info/entry_points.txt
+messaging.egg-info/not-zip-safe
+messaging.egg-info/requires.txt
+messaging.egg-info/top_level.txt
